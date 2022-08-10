@@ -1,0 +1,4 @@
+A website made for Hci course to manage cource content 
+also provide video lectures and slides etc
+we are tring to provide quality education
+This is for conflict from main
